@@ -1,0 +1,9 @@
+.header{
+    background-color: #264653;;
+}
+.image-gray-css{
+    filter: grayscale(100%);
+}
+footer{
+    background-color: black;
+}
